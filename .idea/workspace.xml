@@ -4,15 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd18a692-f27d-42cb-a274-8880ea69a1ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosProgramacion1DAM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="dd18a692-f27d-42cb-a274-8880ea69a1ce" name="Changes" comment="8/112024">
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +70,19 @@
       <option name="presentableId" value="Default" />
       <updated>1704736987088</updated>
     </task>
+    <task id="LOCAL-00001" summary="8/112024">
+      <option name="closed" value="true" />
+      <created>1704739504662</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704739504662</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="8/112024" />
+    <option name="LAST_COMMIT_MESSAGE" value="8/112024" />
   </component>
 </project>
