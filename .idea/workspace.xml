@@ -4,30 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd18a692-f27d-42cb-a274-8880ea69a1ce" name="Changes" comment="8/112024">
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E9.java" afterDir="false" />
+    <list default="true" id="dd18a692-f27d-42cb-a274-8880ea69a1ce" name="Changes" comment="16/1/2024">
+      <change afterPath="$PROJECT_DIR$/src/CadenasDeCaracteres/E1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CadenasDeCaracteres/E2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CadenasDeCaracteres/E3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Colecciones2/E4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conceptos/E29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExpresionesRegulares/E1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExpresionesRegulares/E2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExpresionesRegulares/E3/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExpresionesRegulares/E3/E3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExpresionesRegulares/E4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExpresionesRegulares/html.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Conceptos/E23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conceptos/E23.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +32,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -53,14 +49,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Alvaro/EjerciciosProgramacion1DAM/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "onboarding.tips.debug.path": "C:/Users/Alvaro/EjerciciosProgramacion1DAM/src/Main.java"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alvaro\EjerciciosProgramacion1DAM\src\ExpresionesRegulares\txt" />
+      <recent name="C:\Users\Alvaro\EjerciciosProgramacion1DAM\src\ExpresionesRegulares" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -78,11 +81,20 @@
       <option name="project" value="LOCAL" />
       <updated>1704739504662</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="16/1/2024">
+      <option name="closed" value="true" />
+      <created>1705417798932</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705417798932</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="8/112024" />
-    <option name="LAST_COMMIT_MESSAGE" value="8/112024" />
+    <MESSAGE value="16/1/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="16/1/2024" />
   </component>
 </project>
