@@ -1,7 +1,5 @@
 package Conceptos;
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
-
 /*
 Escribir y ejecutar un programa que imprima el nombre, edad y dirección del alumno.
  */
