@@ -12,6 +12,11 @@ public class Ejercicio implements Comparable<Ejercicio>{
         this.musculo = musculo;
         this.calorias_quemadas = calorias_quemadas;
     }
+
+    public Ejercicio() {
+
+    }
+
     public String getNombre() {
         return nombre;
     }
