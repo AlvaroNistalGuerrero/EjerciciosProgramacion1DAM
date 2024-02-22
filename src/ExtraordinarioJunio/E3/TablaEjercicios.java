@@ -1,7 +1,6 @@
 package ExtraordinarioJunio.E3;
 
-import java.util.Iterator;
-import java.util.TreeSet;
+import java.util.*;
 
 public class TablaEjercicios {
     TreeSet<Ejercicio> ejercicios = new TreeSet<Ejercicio>();
@@ -26,15 +25,34 @@ public class TablaEjercicios {
 
         for (Ejercicio ejer : ejercicios) {
             if (nombre_busqueda.equals(ejer.getNombre())) {
+                return ejer;
             }
-            return ejer;
+
         }
         return null;
     }
-//    public Ejercicio retornaEjercicioQuemaMasCalorias() {
-//       if (ejercicios.isEmpty()){
-//           return null;
-//       }
-//        return ejercicios.getFirst();
-//    }
+    public Ejercicio retornaEjercicioQuemaMasCalorias() {
+       if (ejercicios.isEmpty()){
+           return null;
+       }
+        return ejercicios.first();
+    }
+    public int retornaNumeroEjerciciosTotales(){
+        return ejercicios.size();
+    }
+    public TreeSet<Ejercicio> retornaEjerciciosInmutable(){
+        TreeSet<Ejercicio> a = (TreeSet<Ejercicio>) ejercicios.clone();
+        return a;
+    }
+    public TreeSet<Ejercicio> retornaEjerciciosInmutableOrdenacion(){
+        TreeSet<Ejercicio> a = new TreeSet<>(new OrdenaMusculos());
+        for (Ejercicio eje:ejercicios){
+            a.add(eje);
+        }
+        return a;
+    }
+    @Override
+    public String toString() {
+        return ejercicios.toString();
+    }
 }

@@ -4,33 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd18a692-f27d-42cb-a274-8880ea69a1ce" name="Changes" comment="21/02/2024">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/E1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/E10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/E2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/E3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/E4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/E5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/E6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/E7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/E8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/E9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CadenasDeCaracteres/E5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CadenasDeCaracteres/E6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Colecciones2/E7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Colecciones2/E8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Colecciones2/E9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conceptos/E38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExpresionesRegulares/E5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExpresionesRegulares/E6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExpresionesRegulares/E7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RetratosRobot/Programa.java" afterDir="false" />
+    <list default="true" id="dd18a692-f27d-42cb-a274-8880ea69a1ce" name="Changes" comment="21/02/2024(2)">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/E11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/E12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/E13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/E14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/E15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/E16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExtraordinarioJunio/E3/OrdenaMusculos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CadenasDeCaracteres/E4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CadenasDeCaracteres/E4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExtraordinarioJunio/E3/Ejercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExtraordinarioJunio/E3/Ejercicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExtraordinarioJunio/E3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExtraordinarioJunio/E3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ExtraordinarioJunio/E3/TablaEjercicios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExtraordinarioJunio/E3/TablaEjercicios.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708514108135</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="21/02/2024(2)">
+      <option name="closed" value="true" />
+      <created>1708538923619</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708538923619</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -126,6 +117,7 @@
     <MESSAGE value="16/1/2024" />
     <MESSAGE value="07/02/2024" />
     <MESSAGE value="21/02/2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="21/02/2024" />
+    <MESSAGE value="21/02/2024(2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="21/02/2024(2)" />
   </component>
 </project>
