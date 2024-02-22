@@ -6,11 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="dd18a692-f27d-42cb-a274-8880ea69a1ce" name="Changes" comment="21/02/2024(3)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/E5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/E5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/E6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/E6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/E7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/E7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/E8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/E8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/E9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/E9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/E10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/E10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/E11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/E11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/E12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/E12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/E13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/E13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/E14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/E14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/E16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/E16.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708602131104</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="21/02/2024(3)">
+      <option name="closed" value="true" />
+      <created>1708602936425</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708602936425</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
